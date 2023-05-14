@@ -35,14 +35,17 @@ F: It represents the set of final states of DFA.
 
 # This project consists of 2 parts:
  Part 1 
+ <br/>
  1- We have built an NFA from a given regular expression.
 <br/>
  2- We have converted a giving NFA into a DFA. 
 <br/>
  3- We have Built a DFA from a given regular expression directly.
 <br/>
+
 ----------------------------------------------------------------------------
- Part 2 
+ Part 2
+ <br/>
  1- We were given a grammar that we modify (see the pdf).
 <br/>
  2- We Re-write the grammar such that it can be parsed by an LL(1) parser.
