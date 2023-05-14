@@ -23,21 +23,21 @@ F: It represents the set of final states of DFA.
 
 # This project consists of 2 parts:
  Part 1 
-- 1- We have built an NFA from a given regular expression
+ 1- We have built an NFA from a given regular expression
 <br/>
-- 2- We have converted a giving NFA into a DFA 
+ 2- We have converted a giving NFA into a DFA 
 <br/>
-- 3- We have Built a DFA from a given regular expression directly
+ 3- We have Built a DFA from a given regular expression directly
 <br/>
 ----------------------------------------------------------------------------
  Part 2 
-- 1- We were given a grammar that we modify (see the pdf)
+ 1- We were given a grammar that we modify (see the pdf)
 <br/>
-- 2- We Re-write the grammar such that it can be parsed by an LL(1) parser
+ 2- We Re-write the grammar such that it can be parsed by an LL(1) parser
 <br/>
-- 3- We used the re-written grammar as a base to implement LL(1) parser
+ 3- We used the re-written grammar as a base to implement LL(1) parser
 <br/>
-- 4- Test your code with correct and incorrect input code
+ 4- Test your code with correct and incorrect input code
 <br/>
 -Both have a GUI.
 
