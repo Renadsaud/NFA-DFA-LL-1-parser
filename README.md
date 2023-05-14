@@ -59,5 +59,5 @@ F: It represents the set of final states of DFA.
 # The programming language used
 Part 1 was written in Java language, and Part 2 was written in Python language.
 
-
+# For more details please check the PDF
 
